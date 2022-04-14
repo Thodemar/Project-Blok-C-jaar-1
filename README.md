@@ -2,4 +2,4 @@
 Dit is de repos voor blok C van jaar 1 voot TI van HBO-ict aan de HU
 
 
-Current version: 1.0
+Current version: 1.1
